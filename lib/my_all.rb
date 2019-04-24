@@ -14,3 +14,5 @@ binding.pry
   end
 
 end
+
+my_all?([1,2,3,4,5]) {|i| i<5 }
